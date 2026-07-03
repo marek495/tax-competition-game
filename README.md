@@ -132,7 +132,7 @@ The following parameters were varied across simulation runs (via NetLogo Behavio
 
 ## How to Run
 
-1. Open the `.nlogo` model file in NetLogo.
+1. Open the `.nlogox` model file in NetLogo.
 2. Adjust sliders for the parameters of interest (`initial-H`, `companies`, `retention-strength`, etc.).
 3. Click **setup**, then **go** to run the simulation.
 4. To reproduce the parameter sweep, use NetLogo's **BehaviorSpace** with the parameter values listed above, and export results to CSV.
